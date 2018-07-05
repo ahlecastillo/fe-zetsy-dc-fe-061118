@@ -1,8 +1,8 @@
 /*////////////// Fonts //////////////*/
 
-@font-face {
+font-face {
   font-family: 'Baskerville';
-  src:url(.)
+  src:url(../fonts/Baskerville.ttc)
 }
 
 /*////////// Global Styles //////////*/
